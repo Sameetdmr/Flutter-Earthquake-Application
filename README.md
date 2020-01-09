@@ -1,16 +1,11 @@
-# api_project
+# Flutter Earthquake Application
 
-A new Flutter project.
+### Instant Earthquake Page was made with the data obtained from Kandilli Observatory.
 
-## Getting Started
+### For Api: It is taken from https://github.com/orhanayd/kandilli-rasathanesi-api project.
 
-This project is a starting point for a Flutter application.
+### Each of the earthquakes is shown on the map.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_20200109-222942](https://user-images.githubusercontent.com/43873156/72112269-25a11200-334e-11ea-887e-89e6507e9a12.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20200110-014915](https://user-images.githubusercontent.com/43873156/72112273-289c0280-334e-11ea-9944-1169f31fa907.png)
