@@ -1,11 +1,17 @@
-# Flutter Earthquake Application
+## Flutter Earthquake Application
 
-### Instant Earthquake Page was made with the data obtained from Kandilli Observatory.
+[![Codemagic build status](https://api.codemagic.io/apps/5eacd6bb76654b83d816e262/5eacd6bb76654b83d816e261/status_badge.svg)](https://codemagic.io/apps/5eacd6bb76654b83d816e262/5eacd6bb76654b83d816e261/latest_build)
 
-### For Api: It is taken from https://github.com/orhanayd/kandilli-rasathanesi-api project.
+Instant Earthquake Page was made with the data obtained from Kandilli Observatory.
 
-### Each of the earthquakes is shown on the map.
+ [](https://github.com/Sameetdmr/Flutter-Earthquake-Application#for-api-it-is-taken-from-httpsgithubcomorhanaydkandilli-rasathanesi-api-project)For Api: It is taken from  [https://github.com/orhanayd/kandilli-rasathanesi-api](https://github.com/orhanayd/kandilli-rasathanesi-api)  project.
 
-![Screenshot_20200109-222942](https://user-images.githubusercontent.com/43873156/72112269-25a11200-334e-11ea-887e-89e6507e9a12.png)
+[](https://github.com/Sameetdmr/Flutter-Earthquake-Application#each-of-the-earthquakes-is-shown-on-the-map)Each of the earthquakes is shown on the map.
 
-![Screenshot_20200110-014915](https://user-images.githubusercontent.com/43873156/72112273-289c0280-334e-11ea-9944-1169f31fa907.png)
+
+![72112273-289c0280-334e-11ea-9944-1169f31fa907](https://user-images.githubusercontent.com/43873156/80852820-3a265480-8c34-11ea-9c1c-0b58fe792f3d.png)
+
+
+
+![72112269-25a11200-334e-11ea-887e-89e6507e9a12](https://user-images.githubusercontent.com/43873156/80852805-1cf18600-8c34-11ea-8b5d-0a7d96c037c6.png)
+
